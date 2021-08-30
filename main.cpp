@@ -1,3 +1,5 @@
+//BUG FOUND IN BookCreator.cpp AT LINE 67
+
 #include <iostream>
 #include <string>
 #include <vector>
