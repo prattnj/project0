@@ -1,4 +1,5 @@
 //BUG FOUND IN BookCreator.cpp AT LINE 67
+//BUG FOUND IN Library.cpp AT LINE 77
 
 #include <iostream>
 #include <string>
